@@ -21,7 +21,7 @@ mw.loader.using( "ext.visualEditor.desktopArticleTarget.init" )
 						ve.ui.windowFactory.register( bs.vec.ui.MWSaveDialog );
 						ve.ui.windowFactory.register( bs.vec.ui.MWTableDialog );
 						ve.ui.windowFactory.register( bs.vec.ui.MWMetaDialog );
-						ve.ui.toolFactory.register( bs.vec.ui.MWHelpPopupTool );
+						// ve.ui.toolFactory.register( bs.vec.ui.MWHelpPopupTool );
 
 						//Step 2: Load all plugin modules that may want to register to
 						//those classes

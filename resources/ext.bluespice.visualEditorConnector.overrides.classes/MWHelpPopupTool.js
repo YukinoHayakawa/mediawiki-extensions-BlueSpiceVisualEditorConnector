@@ -1,3 +1,4 @@
+/*
 bs.util.registerNamespace( 'bs.vec.ui' );
 
 bs.vec.ui.MWHelpPopupTool = function VeUiMWHelpPopupTool( config ) {
@@ -8,3 +9,4 @@ bs.vec.ui.MWHelpPopupTool = function VeUiMWHelpPopupTool( config ) {
 };
 
 OO.inheritClass( bs.vec.ui.MWHelpPopupTool, ve.ui.MWHelpPopupTool );
+*/
